@@ -1213,8 +1213,3 @@ TTL: 1 hour
 | **Backend** | FastAPI (Python) | Async, ML-экосистема, автодокументация |
 | **Frontend** | React + TypeScript | Экосистема, библиотеки для графов и редакторов |
 | **Streaming** | SSE | Проще WebSocket для LLM streaming, автоматический reconnect |
-
----
-
-*Документ подготовлен для презентации заказчику*
-*AICO Platform — Техническая архитектура*
